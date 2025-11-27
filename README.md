@@ -16,7 +16,6 @@ MovieLens dataset (movies + ratings):
 *The model uses only movie genres to compute similarity*
 ---
 
-
 ### Data Cleaning & Preparation
 -Converted timestamps
 -Cleaned and standardized movie titles and genres
@@ -33,12 +32,11 @@ MovieLens dataset (movies + ratings):
 -Matplotlib & Seaborn
 -Pickle 
 ---
-Author
+#### Author
 Zainab Abari
-
 LinkedIn: www.linkedin.com/in/zainab-abari
 
-Feel free to reach out for collaboration, feedback, or hiring opportunities!
+Thank you for viewing this project!. Feel free to reach out for collaboration, feedback, or hiring opportunities
 
-Thank you for viewing this project! Feedback and suggestions are welcome. 
----
+--
+

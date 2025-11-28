@@ -2,25 +2,25 @@
 A Movie Recommendation App using Streamlit &amp; Machine Learning
 
 This project is a Content-Based Movie Recommender System that suggests movies based on genre similarity using:
--Cosine Similarity
--CountVectorizer
--Nearest Neighbors Algorithm
+1. Cosine Similarity
+2. CountVectorizer
+3. Nearest Neighbors Algorithm
 
 Users can select any movie and receive recommended titles instantly through an interactive Streamlit web app.
 *This project demonstrates skills in data preprocessing, feature engineering, deployment, and ML model building*
 
 ### Datasets
 MovieLens dataset (movies + ratings):
--movies.csv — movie titles and genres
--ratings.csv — user ratings
+1. movies.csv — movie titles and genres
+2. ratings.csv — user ratings
 *The model uses only movie genres to compute similarity*
 ---
 
 ### Data Cleaning & Preparation
--Converted timestamps
--Cleaned and standardized movie titles and genres
--Merged ratings with movie metadata
-- Created genre vectors using CountVectorizer
+1. Converted timestamps
+2. Cleaned and standardized movie titles and genres
+3. Merged ratings with movie metadata
+4.  Created genre vectors using CountVectorizer
   *This project demonstrates skills in data preprocessing, feature engineering, deployment, and ML model building*
 ---
 ### Demo

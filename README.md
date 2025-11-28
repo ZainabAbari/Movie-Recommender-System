@@ -22,7 +22,14 @@ MovieLens dataset (movies + ratings):
 -Merged ratings with movie metadata
 - Created genre vectors using CountVectorizer
 ---
+### Demo
+Here’s a preview of the app in action:
+![Streamlit App Screenshot](<img width="872" height="439" alt="Movie recommender picture" src="https://github.com/user-attachments/assets/8cce7951-f296-4f78-b452-ac5dccd8bd5b" />
+)
+![Streamlit App Screenshot](<img width="791" height="419" alt="Movie streamlit pic" src="https://github.com/user-attachments/assets/d7a1a670-c4f3-4b43-bf78-68d140fb1c21" />
+)
 
+*This project demonstrates skills in data preprocessing, feature engineering, deployment, and ML model building*
 ### Tech Stack
 -Python
 -Pandas

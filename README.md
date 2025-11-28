@@ -24,9 +24,11 @@ MovieLens dataset (movies + ratings):
   *This project demonstrates skills in data preprocessing, feature engineering, deployment, and ML model building*
 ---
 ### Demo
-Here’s a preview of the app in action:
-![Movie recommender picture](https://github.com/user-attachments/assets/8cce7951-f296-4f78-b452-ac5dccd8bd5b)
-![Movie streamlit pic](https://github.com/user-attachments/assets/d7a1a670-c4f3-4b43-bf78-68d140fb1c21)
+**Here’s a preview of the app in action:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8cce7951-f296-4f78-b452-ac5dccd8bd5b" alt="Movie recommender picture" width="400" />
+  <img src="https://github.com/user-attachments/assets/d7a1a670-c4f3-4b43-bf78-68d140fb1c21" alt="Movie streamlit pic" width="400" />
+</p>
 ---
 
 ### Tech Stack
